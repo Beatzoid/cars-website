@@ -1,7 +1,20 @@
 import "./App.css";
 
+import styled from "styled-components";
+import tw from "twin.macro";
+
+import { HomePage } from "./app/containers/HomePage";
+
+const AppContainer = styled.div`
+    ${tw`flex flex-col w-full h-full`}
+`;
+
 function App() {
-    return <div className="text-lg text-center font-bold">Hello World</div>;
+    return (
+        <AppContainer>
+            <HomePage />
+        </AppContainer>
+    );
 }
 
 export default App;

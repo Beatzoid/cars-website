@@ -2523,7 +2523,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/hoist-non-react-statics@npm:^3.3.0":
+"@types/hoist-non-react-statics@npm:*, @types/hoist-non-react-statics@npm:^3.3.0":
   version: 3.3.1
   resolution: "@types/hoist-non-react-statics@npm:3.3.1"
   dependencies:
@@ -2697,6 +2697,17 @@ __metadata:
   version: 2.0.1
   resolution: "@types/stack-utils@npm:2.0.1"
   checksum: 205fdbe3326b7046d7eaf5e494d8084f2659086a266f3f9cf00bccc549c8e36e407f88168ad4383c8b07099957ad669f75f2532ed4bc70be2b037330f7bae019
+  languageName: node
+  linkType: hard
+
+"@types/styled-components@npm:^5.1.15":
+  version: 5.1.15
+  resolution: "@types/styled-components@npm:5.1.15"
+  dependencies:
+    "@types/hoist-non-react-statics": "*"
+    "@types/react": "*"
+    csstype: ^3.0.2
+  checksum: d565e0a3cf3fdb79aab73c0aa2d69d93152afe2661b3ec546592b64e0781f05d21d2a9715a15acaa8422b6d6a2b1250d9ba8c96ea656776051351393bada7a82
   languageName: node
   linkType: hard
 
@@ -4710,6 +4721,7 @@ __metadata:
     "@types/react": ^17.0.34
     "@types/react-dom": ^17.0.11
     "@types/react-redux": ^7.1.20
+    "@types/styled-components": ^5.1.15
     autoprefixer: ^9
     postcss: ^7
     react: ^17.0.2
