@@ -2659,7 +2659,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:^17.0.34":
+"@types/react@npm:*":
   version: 17.0.34
   resolution: "@types/react@npm:17.0.34"
   dependencies:
@@ -2667,6 +2667,17 @@ __metadata:
     "@types/scheduler": "*"
     csstype: ^3.0.2
   checksum: 16729ad7d50922ccbf8eb93874d7781dc2f1c64edc78134b5edc7154839d41e9fe320eb1c11ad2d1c9bf28b99cb1febda344509c1fda025955a5c2b43c688c8f
+  languageName: node
+  linkType: hard
+
+"@types/react@npm:^17.0.39":
+  version: 17.0.39
+  resolution: "@types/react@npm:17.0.39"
+  dependencies:
+    "@types/prop-types": "*"
+    "@types/scheduler": "*"
+    csstype: ^3.0.2
+  checksum: bf04d3c2894559012710d595553e12b422d3b91cd8f4f7e122d8cb044ba9c2ba17f6e8a4e09581359cc5509ddc59cd8c8fabd6774f3505a40a45393f074d6e6e
   languageName: node
   linkType: hard
 
@@ -4718,7 +4729,7 @@ __metadata:
     "@testing-library/user-event": ^13.5.0
     "@types/jest": ^27.0.2
     "@types/node": ^16.11.6
-    "@types/react": ^17.0.34
+    "@types/react": ^17.0.39
     "@types/react-dom": ^17.0.11
     "@types/react-redux": ^7.1.20
     "@types/styled-components": ^5.1.15
