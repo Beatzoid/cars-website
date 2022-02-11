@@ -2659,6 +2659,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/react-redux@npm:^7.1.22":
+  version: 7.1.22
+  resolution: "@types/react-redux@npm:7.1.22"
+  dependencies:
+    "@types/hoist-non-react-statics": ^3.3.0
+    "@types/react": "*"
+    hoist-non-react-statics: ^3.3.0
+    redux: ^4.0.0
+  checksum: eef458c0cda27eabd8d458b7fc40553aab8d2f218145b896b9059b86d88680ae479079aee13683f2a0f35774f20346b732e91182252402bd8777455e004561c9
+  languageName: node
+  linkType: hard
+
 "@types/react@npm:*, @types/react@npm:^17.0.34":
   version: 17.0.34
   resolution: "@types/react@npm:17.0.34"
@@ -4720,7 +4732,7 @@ __metadata:
     "@types/node": ^16.11.6
     "@types/react": ^17.0.34
     "@types/react-dom": ^17.0.11
-    "@types/react-redux": ^7.1.20
+    "@types/react-redux": ^7.1.22
     "@types/styled-components": ^5.1.15
     autoprefixer: ^9
     postcss: ^7
