@@ -2700,14 +2700,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/styled-components@npm:^5.1.15":
-  version: 5.1.15
-  resolution: "@types/styled-components@npm:5.1.15"
+"@types/styled-components@npm:^5.1.22":
+  version: 5.1.22
+  resolution: "@types/styled-components@npm:5.1.22"
   dependencies:
     "@types/hoist-non-react-statics": "*"
     "@types/react": "*"
     csstype: ^3.0.2
-  checksum: d565e0a3cf3fdb79aab73c0aa2d69d93152afe2661b3ec546592b64e0781f05d21d2a9715a15acaa8422b6d6a2b1250d9ba8c96ea656776051351393bada7a82
+  checksum: f25850590772ffc3da672a89f89847b92994d78c28f7d37a31a792fee868ae4b2ae040e7be1b9959631dcfbf82296b3ed1f19f4cf28bd0c82e15727c1022f01c
   languageName: node
   linkType: hard
 
@@ -4721,7 +4721,7 @@ __metadata:
     "@types/react": ^17.0.34
     "@types/react-dom": ^17.0.11
     "@types/react-redux": ^7.1.20
-    "@types/styled-components": ^5.1.15
+    "@types/styled-components": ^5.1.22
     autoprefixer: ^9
     postcss: ^7
     react: ^17.0.2
