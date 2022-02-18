@@ -24,7 +24,7 @@
     },
     "devDependencies": {
         "@types/react-burger-menu": "^2.8.3",
-        "@types/styled-components": "^5.1.22",
+        "@types/styled-components": "^5.1.23",
         "autoprefixer": "^10.4.2",
         "postcss": "^8.4.6",
         "tailwindcss": "^3.0.23"
