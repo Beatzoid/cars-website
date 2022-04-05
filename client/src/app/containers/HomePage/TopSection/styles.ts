@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import tw from "twin.macro";
 
-import { SCREENS } from "../../../components/responsive";
+import { SCREENS } from "../../../../constants/screens";
 
 export const TopSectionContainer = styled.div`
     min-height: 400px;

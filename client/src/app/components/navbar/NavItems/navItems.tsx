@@ -1,24 +1,10 @@
-import styled, { css } from "styled-components";
-import tw from "twin.macro";
 import { slide as Menu } from "react-burger-menu";
 import { useMediaQuery } from "react-responsive";
 
-import { SCREENS } from "../responsive";
-import menuStyles from "./menuStyles";
+import { SCREENS } from "../../../../constants/screens";
+import menuStyles from "../menuStyles";
 
-const ListContainer = styled.ul`
-    ${tw`flex list-none`}
-`;
-
-const NavItem = styled.li<{ menu?: any }>`
-    ${tw`mr-1 text-xs font-bold text-black transition duration-300 ease-in-out cursor-pointer hover:text-gray-700 md:text-base md:mr-5`}
-
-    ${({ menu }) =>
-        menu &&
-        css`
-            ${tw`mb-3 text-xl text-white focus:text-white`}
-        `}
-`;
+import { ListContainer, NavItem } from "./styles.navitem";
 
 const NavItems = () => {
     const isMobile = useMediaQuery({ maxWidth: SCREENS.sm });
