@@ -543,7 +543,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:^17.0.33":
+"@types/react@npm:*, @types/react@npm:^17.0.43":
   version: 17.0.43
   resolution: "@types/react@npm:17.0.43"
   dependencies:
@@ -3401,7 +3401,7 @@ __metadata:
     "@reduxjs/toolkit": ^1.8.1
     "@types/jest": ^27.4.1
     "@types/node": ^17.0.17
-    "@types/react": ^17.0.33
+    "@types/react": ^17.0.43
     "@types/react-burger-menu": ^2.8.3
     "@types/react-dom": ^17.0.10
     "@types/react-redux": ^7.1.23
