@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import tw from "twin.macro";
 
-import Navbar from "../../components/navbar";
+import Navbar from "@components/navbar";
 import TopSection from "./TopSection/topSection";
 
 const PageContainer = styled.div`

@@ -1,5 +1,5 @@
-import MclarenCarImg from "../../../../assets/images/mclaren-orange-big.png";
-import BlobSvg from "../../../../assets/images/blob.svg";
+import MclarenCarImg from "@assets/images/mclaren-orange-big.png";
+import BlobSvg from "@assets/images/blob.svg";
 
 import {
     TopSectionContainer,

@@ -1,4 +1,4 @@
-import CarLogoImg from "../../../assets/images/car-logo.png";
+import CarLogoImg from "@assets/images/car-logo.png";
 
 import { LogoContainer, LogoText, Image } from "./styles.logo";
 

@@ -1,7 +1,7 @@
 import { slide as Menu } from "react-burger-menu";
 import { useMediaQuery } from "react-responsive";
 
-import { SCREENS } from "../../../../constants/screens";
+import { SCREENS } from "@constants/screens";
 import menuStyles from "../menuStyles";
 
 import { ListContainer, NavItem } from "./styles.navitem";
