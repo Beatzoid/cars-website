@@ -522,7 +522,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^17.0.10":
+"@types/react-dom@npm:^17.0.14":
   version: 17.0.14
   resolution: "@types/react-dom@npm:17.0.14"
   dependencies:
@@ -3403,7 +3403,7 @@ __metadata:
     "@types/node": ^17.0.17
     "@types/react": ^17.0.43
     "@types/react-burger-menu": ^2.8.3
-    "@types/react-dom": ^17.0.10
+    "@types/react-dom": ^17.0.14
     "@types/react-redux": ^7.1.23
     "@types/styled-components": ^5.1.24
     "@vitejs/plugin-react": ^1.0.7
