@@ -2741,9 +2741,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-responsive@npm:^9.0.0-beta.6":
-  version: 9.0.0-beta.6
-  resolution: "react-responsive@npm:9.0.0-beta.6"
+"react-responsive@npm:^9.0.0-beta.10":
+  version: 9.0.0-beta.10
+  resolution: "react-responsive@npm:9.0.0-beta.10"
   dependencies:
     hyphenate-style-name: ^1.0.0
     matchmediaquery: ^0.3.0
@@ -2751,7 +2751,7 @@ __metadata:
     shallow-equal: ^1.2.1
   peerDependencies:
     react: ">=16.8.0"
-  checksum: 129b23e4c9b1ddaf69f6c7748bc2ecdfd44731493b06a042373b6f14aff1077e6f11c2f9b128e1ed09937de46cd7e86571c9ec8bbb1d474f73ebd0ffccaa1043
+  checksum: 3d0fd29caab85de7ba0192e36f54af580ee3e99d59774526702bb2f31a5da8a221cb2d6340e933eb90838f5e83020926196597cfe01f789855f625511794ba82
   languageName: node
   linkType: hard
 
@@ -3464,7 +3464,7 @@ __metadata:
     react-burger-menu: ^3.0.6
     react-dom: ^18.0.0
     react-redux: ^7.2.8
-    react-responsive: ^9.0.0-beta.6
+    react-responsive: ^9.0.0-beta.10
     styled-components: ^5.3.5
     tailwindcss: ^3.0.23
     twin.macro: ^2.8.2
