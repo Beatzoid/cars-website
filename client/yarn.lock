@@ -2671,9 +2671,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-burger-menu@npm:^3.0.6":
-  version: 3.0.6
-  resolution: "react-burger-menu@npm:3.0.6"
+"react-burger-menu@npm:^3.0.8":
+  version: 3.0.8
+  resolution: "react-burger-menu@npm:3.0.8"
   dependencies:
     browserify-optional: ^1.0.0
     classnames: ^2.2.6
@@ -2681,9 +2681,9 @@ __metadata:
     prop-types: ^15.7.2
     snapsvg-cjs: 0.0.6
   peerDependencies:
-    react: ">=0.14.0 <18.0.0"
-    react-dom: ">=0.14.0 <18.0.0"
-  checksum: ba439b1b7f58aac195cc32037f49bbea1b60c6d573aabc44a5b518d5a1a90367014182e297c0496eac4767a56225c1e0f3937118e29c0140387cb910ac3ebaf3
+    react: ">=0.14.0"
+    react-dom: ">=0.14.0"
+  checksum: 01e252d7aebb4f03c25f2de45a8f81d845a5890058f9658b8ba93eeae112cbd8c8eb33e2ffb8120743cacd8efb5ed4aaef6d5d25117e40be386dcc0860417ead
   languageName: node
   linkType: hard
 
@@ -3461,7 +3461,7 @@ __metadata:
     babel-plugin-styled-components: ^2.0.6
     postcss: ^8.4.12
     react: ^18.0.0
-    react-burger-menu: ^3.0.6
+    react-burger-menu: ^3.0.8
     react-dom: ^18.0.0
     react-redux: ^7.2.8
     react-responsive: ^9.0.0-beta.6
